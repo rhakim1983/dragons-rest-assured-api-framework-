@@ -1,0 +1,5 @@
+api:
+  base_url: "https://tek-insurance-api.azurewebsites.net"
+  users:
+    username: "supervisor"
+    password: "tek_supervisor"
