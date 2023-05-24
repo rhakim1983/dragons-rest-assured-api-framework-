@@ -1,4 +1,4 @@
-package tek.api.utility.model;
+package tek.api.model;
 
 public class AuthUser {
 

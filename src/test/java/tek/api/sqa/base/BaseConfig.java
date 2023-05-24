@@ -2,7 +2,7 @@ package tek.api.sqa.base;
 
 import org.testng.Assert;
 import tek.api.utility.YamlPropertyReader;
-import tek.api.utility.model.AuthUser;
+import tek.api.model.AuthUser;
 
 import java.io.FileNotFoundException;
 import java.util.HashMap;
