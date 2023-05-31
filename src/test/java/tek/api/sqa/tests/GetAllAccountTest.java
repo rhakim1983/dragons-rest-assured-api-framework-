@@ -10,7 +10,6 @@ import tek.api.sqa.base.APITestConfig;
 import tek.api.utility.EndPoints;
 
 public class GetAllAccountTest extends APITestConfig {
-
 	@Test
 	public void getAllAccountTest() {
 		// Prepare the request.
